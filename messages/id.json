@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "products": "Produk",
+    "contact": "Kontak",
+    "certificationsLegality": {
+      "label": "Sertifikasi & Legalitas",
+      "items": [
+        { "title": "Registrasi & Legalitas", "href": "/#registration-legality" },
+        { "title": "Sertifikasi", "href": "/#certification" }
+      ]
+    }
+  },
+  "hero": {
+    "tagline": "Mitra Terpercaya Anda",
+    "title": "Membangun Kualitas",
+    "titleHighlight": "Bersama",
+    "description": "Maharani Prima berkomitmen untuk memberikan keunggulan dalam setiap proyek, menghadirkan solusi inovatif dan layanan terpercaya kepada klien kami.",
+    "cta": "Hubungi Kami",
+    "ctaSecondary": "Pelajari Lebih Lanjut"
+  },
+  "about": {
+    "label": "Tentang Kami",
+    "title": "Siapa Kami",
+    "description": "Maharani Prima telah menjadi nama terpercaya di industri ini, berdedikasi untuk menyediakan produk dan layanan berkualitas tinggi. Kami percaya pada membangun hubungan jangka panjang dengan klien berdasarkan kepercayaan, transparansi, dan hasil nyata.",
+    "vision": {
+      "title": "Visi",
+      "description": "Menjadi perusahaan terkemuka yang mendorong inovasi dan menciptakan nilai jangka panjang bagi klien dan masyarakat kami."
+    },
+    "mission": {
+      "title": "Misi",
+      "description": "Memberikan produk dan layanan terbaik melalui integritas, inovasi, dan komitmen terhadap keunggulan."
+    },
+    "stats": {
+      "years": "Tahun Pengalaman",
+      "clients": "Klien Puas",
+      "projects": "Proyek Selesai"
+    }
+  },
+  "services": {
+    "label": "Layanan Kami",
+    "title": "Apa yang Kami Tawarkan",
+    "description": "Kami menyediakan berbagai layanan komprehensif yang disesuaikan untuk memenuhi kebutuhan bisnis Anda.",
+    "items": [
+      {
+        "title": "Konsultasi",
+        "description": "Konsultasi bisnis strategis untuk membantu Anda menghadapi tantangan dan memanfaatkan peluang."
+      },
+      {
+        "title": "Manajemen Proyek",
+        "description": "Manajemen proyek menyeluruh yang memastikan pengiriman tepat waktu dan hasil berkualitas."
+      },
+      {
+        "title": "Penyediaan Produk",
+        "description": "Penyediaan produk berkualitas tinggi yang bersumber dari produsen terpercaya."
+      }
+    ]
+  },
+  "products": {
+    "label": "Produk Kami",
+    "title": "Produk Unggulan",
+    "description": "Jelajahi rangkaian produk berkualitas kami yang dirancang memenuhi standar industri.",
+    "viewAll": "Lihat Semua Produk"
+  },
+  "contact": {
+    "label": "Hubungi Kami",
+    "title": "Ayo Terhubung",
+    "description": "Punya pertanyaan atau siap memulai proyek? Kami senang mendengar dari Anda.",
+    "form": {
+      "name": "Nama Lengkap",
+      "namePlaceholder": "Masukkan nama Anda",
+      "email": "Alamat Email",
+      "emailPlaceholder": "Masukkan email Anda",
+      "phone": "Nomor Telepon",
+      "phonePlaceholder": "Masukkan nomor telepon Anda",
+      "message": "Pesan",
+      "messagePlaceholder": "Ceritakan tentang proyek atau pertanyaan Anda...",
+      "submit": "Kirim Pesan",
+      "sending": "Mengirim...",
+      "success": "Pesan berhasil dikirim! Kami akan segera menghubungi Anda.",
+      "error": "Terjadi kesalahan. Silakan coba lagi."
+    },
+    "info": {
+      "address": "Alamat",
+      "phone": "Telepon",
+      "email": "Email",
+      "hours": "Jam Operasional",
+      "hoursValue": "Senin - Jumat, 08:00 - 17:00"
+    }
+  },
+  "footer": {
+    "description": "Maharani Prima berdedikasi untuk menghadirkan kualitas dan keunggulan dalam setiap langkah.",
+    "quickLinks": "Tautan Cepat",
+    "followUs": "Ikuti Kami",
+    "rights": "Hak cipta dilindungi.",
+    "company": "Maharani Prima"
+  },
+  "common": {
+    "readMore": "Baca Selengkapnya",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "viewAll": "Lihat Semua",
+    "backToTop": "Kembali ke Atas",
+    "loading": "Memuat...",
+    "language": "Bahasa"
+  }
+}

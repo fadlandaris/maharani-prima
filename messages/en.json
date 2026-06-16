@@ -1,0 +1,958 @@
+{
+  "nav": {
+    "home": "Home",
+    "certificationsLegality": "Certifications & Legality",
+    "productProjects": "Product & Projects",
+    "awardRecords": "Award & Records",
+    "contact" : "Contact us"
+  },
+  "hero": {
+    "title": "Building sustainable business that performs",
+    "description": "We help organizations integrate ESG into strategy, operations, and reporting — turning sustainability into measurable business value.",
+    "cta": "Get in Touch"
+  },
+  "about": {
+    "label": "Maharani Prima",
+    "description" : [
+      "PT. Maharani Prima is a Jakarta-based EPCC company founded in 2012, specializing in wellpad preparation, mining & hauling, piping & metering, and power plant projects — committed to delivering every project on scope, on time, and within budget.",
+      "Backed by end-to-end expertise across design, engineering, construction, and commissioning, PT. Maharani Prima delivers value-driven solutions tailored to each client — with a skilled team ready to tackle complex challenges across diverse locations."
+    ],
+    "stats" : [
+      {
+        "title" : "On Schedule ",
+        "desc" : "Capacitate the company with competent staff"
+      },
+      {
+        "title" : "On Budget ",
+        "desc" : "We do productivity at minimal cost"
+      },
+      {
+        "title" : "On Quality ",
+        "desc" : "Maintain a high level of professionalism"
+      },
+      {
+        "title" : "On Safety",
+        "desc" : "Ensure to follow the government regulation "
+      }
+    ]
+  },
+  "Cta": {
+    "title" : "Active in more than 100 EPCC projects across the archipelago, Maharani Prima has solid tracks in Indonesian EPCC business",
+    "cta": "Get in Touch"
+  },
+  "core": {
+    "title": "Supporting every step, from land analysis to sustainable growth",
+    "crumb" : "Core Competency",
+    "cta" : "Learn more",
+    "coresData" : [
+      {
+        "title" : "Mining & Hauling",
+        "desc" : "Excavation & hauling, ore surveys, road maintenance, re-engineering fills, loading & barging."
+      },
+      {
+        "title" : "Wellpad & Earth Works",
+        "desc" : "Deep bulk excavation & hauling, surveys & volumetric calculation, road & facility maintenance, piling & rig foundation, mud pit installation & stabilizing fills."
+      },
+      {
+        "title" : "Surface Facility Oil & Gas",
+        "desc" : "Engineering & construction, earth works, technical procurement, piping construction & metering installation, electrical & instrument installation"
+      },
+      {
+        "title" : "HV & MV Transmission Line",
+        "desc" : "Power foundation for 70 & 150 KV lines, cable pulling & accessories installation, open cut, manual boring & HDD cable installation, testing & commissioning, panel SCADA & electric breaker installation."
+      },
+      {
+        "title" : "Power Plant",
+        "desc" : "Earth works & civil works, technical procurement, mechanical & rotating equipment installation, electrical & instrument installation, testing & commissioning."
+      }
+    ]
+  },
+  "records": {
+    "title": "Sustainability: From initiative to strategy return to Records",
+    "crumb" : "Track Records",
+    "cta" : "Awards",
+    "recordsData" : [
+      {
+        "title" : "9 Power Plant",
+        "desc" : "Delivered 9 power plant projects spanning coal-fired, gas, diesel, hydro, and geothermal power facilities."
+      },
+      {
+        "title" : "8 Metering Station & Facility",
+        "desc" : "Completed 8 metering station & facility projects covering gas metering, crude oil metering, and fuel terminal installations."
+      },
+      {
+        "title" : "550 km Power Transmission",
+        "desc" : "Installed 550 km of power transmission lines including 410 km underground MV, 40 km upper ground MV, 40 km upper ground HV, and 60 km HDD MV distribution."
+      },
+      {
+        "title" : "130 km Pipeline Construction",
+        "desc" : "Built 130 km of pipelines covering distribution, gas transmission, and HDD pipeline construction across multiple project sites."
+      },
+      {
+        "title" : "220 Well Facility",
+        "desc" : "Executed 220 well facility projects including rig substructure installation, wellhead installation, and 300 km of wellpad road construction."
+      },
+      {
+        "title" : "Mining & Hauling",
+        "desc" : "Moved more than 3,000,000 m³ of fresh soil and hauled over 600,000 m³ of gravel across mining sites."
+      }
+    ]
+  },
+  "awards": {
+    "title": "Recognized by industry leaders  and contractor excellence",
+    "crumb" : "Our Awards",
+    "cta" : "See more",
+    "certifications" : "Certifications",
+    "awardsData" : [
+      {
+        "title" : "PT Perusahaan Gas Negara Tbk",
+        "desc" : "Safe working hours achievement of 50,000 hours in the Cepu/Oyekan WMO area.",
+        "type" : "Certificate of Achievement"
+      },
+      {
+        "title" : "PT Perusahaan Gas Negara Tbk",
+        "desc" : "CSM Awards PMO 2018 — Safe Man Hours Bronze Awards.",
+        "type" : "Award Plaque"
+      },
+      {
+        "title" : "PT Perusahaan Gas Negara Tbk",
+        "desc" : "CSM Awards PMO 2019 — Safe Working Hours Achievement.",
+        "type" : "Award Plaque"
+      },
+      {
+        "title" : "PT PGAS Solution",
+        "desc" : "Best Contractor in High-Risk EPC Work Category 2018.",
+        "type" : "Certificate of Achievement"
+      },
+      {
+        "title" : "PT PLN (Persero) UID Jakarta Raya",
+        "desc" : "Best Vendor Performance for 3 Consecutive Years 2022.",
+        "type" : "Award Plaque"
+      },
+      {
+        "title" : "PT Perta Drilling Contractor",
+        "desc" : "SIFO 200 Days — CS WUR EW GP Mitigation 2 PDCM North Area Banke 2018.",
+        "type" : "Certificate of Achievement"
+      },
+      {
+        "title" : "PT Pertamina Gas",
+        "desc" : "HSSE Achievement Award — 5,402 safe working hours with zero lost injury.",
+        "type" : "Award Plaque"
+      },
+      {
+        "title" : "PT Pertamina Gas",
+        "desc" : "HSSE Achievement Award 2025 — Subcontractor Category.",
+        "type" : "Award Plaque"
+      },
+      {
+        "title" : "PT Pertamina Hulu Rokan",
+        "desc" : "Highest achievement since transfer of operations on August 9, 2021 — 70 POP wells in July 2025 with a cumulative 1,725 POP.",
+        "type" : "Award Plaque"
+      }
+    ]
+  },
+  "Projects": {
+    "title": "Built on precision, proven delivery across Indonesia",
+    "crumb" : "Featured Projects",
+    "crumbs" : "All Projects",
+    "cta" : "See more",
+    "certifications" : "View all projects",
+    "projectsStat" : [
+      {
+        "title": "15 + years",
+        "desc" : "Verified listings worldwide"
+      },
+      {
+        "title": "1200 +",
+        "desc" : "Global offices in 5 continents"
+      },
+      {
+        "title": "180 +",
+        "desc" : "Partner agencies and developers"
+      },
+      {
+        "title": "95% +",
+        "desc" : "Property value facilitated"
+      }
+    ],
+    "category" : [
+      "All",
+      "Construction",
+      "Engineering",
+      "EPC",
+      "MEP & HSE",
+      "Mechanical & Plumbing",
+      "Maintenance & Services"
+    ],
+    "projetsData" : [
+      {
+        "project" : "Matting Board Supply Services for Work Over Well Services (WOWS)",
+        "client" : "Pertamina Hulu Rokan",
+        "owner" : "Pertamina Hulu Rokan",
+        "year" : "2025",
+        "scope" : "Construction Unit Rate Basis",
+        "category" : "Construction"
+      },
+      {
+        "project" : "Rental, Supply, and Installation of Matting Board (Package 2)",
+        "client" : "Pertamina Hulu Rokan",
+        "owner" : "Pertamina Hulu Rokan",
+        "year" : "2025",
+        "scope" : "Construction Unit Rate Basis",
+        "category" : "Construction"
+      },
+      {
+        "project" : "Contract Service Working Unit Rate Multi Discipline",
+        "client" : "Pertamina Hulu Rokan",
+        "owner" : "Pertamina Hulu Rokan",
+        "year" : "2025",
+        "scope" : "Construction Unit Rate Basis",
+        "category" : "Construction"
+      },
+      {
+        "project" : "Contract Service Working Unit Rate Earthwork for Wellpad Preparation Central Area",
+        "client" : "Pertamina Hulu Rokan",
+        "owner" : "Pertamina Hulu Rokan",
+        "year" : "2024",
+        "scope" : "Construction Unit Rate Basis",
+        "category" : "Construction"
+      },
+      {
+        "project" : "Civil Works for Booster Pump Batang HO",
+        "client" : "PGAS Solution",
+        "owner" : "Pertamina Gas",
+        "year" : "2024",
+        "scope" : "Engineering & Construction",
+        "category" : "Engineering"
+      },
+      {
+        "project" : "Contract Service Working Unit Rate Earthwork for Wellpad Preparation",
+        "client" : "KSO PT Manora Prima Sejati - PT Russindo Rekayasa Pratama",
+        "owner" : "Pertamina Hulu Rokan",
+        "year" : "2024",
+        "scope" : "Construction Unit Rate Basis",
+        "category" : "Construction"
+      },
+      {
+        "project" : "Site Preparation and Booster Pump Batang HO Installation Works",
+        "client" : "PGAS Solution",
+        "owner" : "Pertamina Gas",
+        "year" : "2024",
+        "scope" : "Engineering & Construction",
+        "category" : "Engineering"
+      },
+      {
+        "project" : "HDD (Horizontal Directional Drilling) Construction Works for SKTM 20 KV",
+        "client" : "PT PLN (Persero) Unit Induk Distribusi Jakarta",
+        "owner" : "PT PLN (Persero) Unit Induk Distribusi Jakarta",
+        "year" : "2024",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Civil Works and Wellpad Preparation in Rokan Working Area Phase 2",
+        "client" : "PT Perta Drilling Contractor",
+        "owner" : "Pertamina Hulu Rokan",
+        "year" : "2023",
+        "scope" : "Construction Unit Rate Basis",
+        "category" : "Construction"
+      },
+      {
+        "project" : "Civil Works and Wellpad Preparation in Rokan Working Area Phase 1",
+        "client" : "PT Perta Drilling Contractor",
+        "owner" : "Pertamina Hulu Rokan",
+        "year" : "2023",
+        "scope" : "Construction Unit Rate Basis",
+        "category" : "Construction"
+      },
+      {
+        "project" : "EPC Works for Tie In Well HCE-33 PLTP Dieng Unit 1",
+        "client" : "PT Geo Dipa Energi (Persero)",
+        "owner" : "PT Geo Dipa Energi",
+        "year" : "2023",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Natural Gas Network Construction for Households in Lumajang Regency (4020 SR)",
+        "client" : "Kementerian ESDM",
+        "owner" : "Kementerian ESDM",
+        "year" : "2022",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "HDD Boring Construction Works, 30-Inch Diameter, 10-Line SKTM 20KV Cable",
+        "client" : "PT PLN (Persero) Unit Induk Distribusi Jakarta",
+        "owner" : "PT PLN (Persero) Unit Induk Distribusi Jakarta",
+        "year" : "2022",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Civil Works in Rokan Working Area on Unit Rate Basis",
+        "client" : "PT Perta Drilling Contractor",
+        "owner" : "Pertamina Hulu Rokan",
+        "year" : "2022",
+        "scope" : "Construction Unit Rate Basis",
+        "category" : "Construction"
+      },
+      {
+        "project" : "EPC Works for Tie In Well HCE-10A PLTP Dieng Unit 1",
+        "client" : "PT Geo Dipa Energi",
+        "owner" : "PT Geo Dipa Energi",
+        "year" : "2022",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Site Development, Temporary Access and Temporary Facility Salak Brine Heat Recovery",
+        "client" : "PT Tripatra EPC",
+        "owner" : "Star Energy, Ltd",
+        "year" : "2021",
+        "scope" : "MEP & HSE",
+        "category" : "MEP & HSE"
+      },
+      {
+        "project" : "Mechanical, Electrical, Piping, Instrument & HSE works for Oil Pipe Construction in Rokan Area",
+        "client" : "PT PGAS Solution",
+        "owner" : "Pertamina Gas",
+        "year" : "2021",
+        "scope" : "MEP & HSE",
+        "category" : "MEP & HSE"
+      },
+      {
+        "project" : "150 KV and 20 KV Backfeeding Project for PLTU Cirebon Power 2",
+        "client" : "Hyundai Engineering & Construction",
+        "owner" : "PT Cirebon Power",
+        "year" : "2020",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Construction of PE Pipe Factory in Klari, Karawang Timur",
+        "client" : "PGAS Solution",
+        "owner" : "PGAS Solution",
+        "year" : "2019",
+        "scope" : "Mechanical & Plumbing",
+        "category" : "Mechanical & Plumbing"
+      },
+      {
+        "project" : "5 KM Subang Transmission Pipeline Construction, Zone II Development",
+        "client" : "PGAS Solution",
+        "owner" : "PGAS Solution",
+        "year" : "2019",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "1-Year Blanket Services for Package 1 Medium Voltage Construction and Maintenance in Jakarta",
+        "client" : "PT PLN (Persero) Disjaya",
+        "owner" : "PT PLN (Persero)",
+        "year" : "2019",
+        "scope" : "Maintenance & Services",
+        "category" : "Maintenance & Services"
+      },
+      {
+        "project" : "Engineering, Procurement and Construction for Dangu Water Flood Injection Project",
+        "client" : "ConocoPhillips (Grissik) Ltd",
+        "owner" : "ConocoPhillips (Grissik) Ltd",
+        "year" : "2018",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Pesanggaran Nusa Penida Diesel Power Plant 7x1.5 MW Relocation",
+        "client" : "PT Cogindo Daya Bersama",
+        "owner" : "PT Cogindo Daya Bersama",
+        "year" : "2018",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Procurement & Installation of Fire Suppression System at Jabung Compressor Station",
+        "client" : "PT Transportasi Gas Indonesia",
+        "owner" : "PT Transportasi Gas Indonesia",
+        "year" : "2018",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "1-Year Blanket Services for Package 1 Medium Voltage Construction and Maintenance in Jakarta",
+        "client" : "PT PLN (Persero) Disjaya",
+        "owner" : "PT PLN (Persero)",
+        "year" : "2018",
+        "scope" : "Maintenance & Services",
+        "category" : "Maintenance & Services"
+      },
+      {
+        "project" : "1-Year Blanket Services for Package 2 Civil, Cable Bridge & Substation Construction Maintenance in Greater Jakarta Area",
+        "client" : "PT PLN (Persero) Disjaya",
+        "owner" : "PT PLN (Persero)",
+        "year" : "2017",
+        "scope" : "Maintenance & Services",
+        "category" : "Maintenance & Services"
+      },
+      {
+        "project" : "1-Year Blanket Services for Package 3 Low Voltage Construction and Maintenance in Greater Jakarta Area",
+        "client" : "PT PLN (Persero) Disjaya",
+        "owner" : "PT PLN (Persero)",
+        "year" : "2017",
+        "scope" : "Maintenance & Services",
+        "category" : "Maintenance & Services"
+      },
+      {
+        "project" : "Engineering, Procurement, and Construction USM 24\" Dumai Receiving Facility Metering Station Package",
+        "client" : "PT PGAS Solution",
+        "owner" : "PT Perusahaan Gas Negara Tbk",
+        "year" : "2017",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Civil & Balance of Plant Construction for Gas Engine Power Plant 25 MW Relocation from Rantau to Kotaagung",
+        "client" : "KSO Wika-Limnan-Erostatic",
+        "owner" : "KSO Wika-Limnan-Erostatic",
+        "year" : "2017",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Mechanical Electrical Piping and Instrument for Gas Pipeline Distribution of Dumai CNODC Madura Ltd to PNGN Gas Pipeline Facility",
+        "client" : "PT PGAS Solution",
+        "owner" : "PT Perusahaan Gas Negara Tbk",
+        "year" : "2017",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "25KV Medium 20KV Cable Construction and 10MVA Distribution Panel, Banten Area Teluk Naga",
+        "client" : "PT PLN (Persero)",
+        "owner" : "PT PLN (Persero)",
+        "year" : "2016",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Electrical and Electronics of Cisalak Modern Market Construction",
+        "client" : "PT Brantas Abipraya (Persero)",
+        "owner" : "Pemprov Jawa Barat",
+        "year" : "2016",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Construction of HV 150 KV Transmission and Guard Facility Jampeong-Barge Powership",
+        "client" : "PT PLN Lantera Abadi",
+        "owner" : "PT PLN (Persero)",
+        "year" : "2016",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Pontianak Kalimantan Diesel Power Plant 5 x 1.5 MW Relocation",
+        "client" : "PT Indonesia Power",
+        "owner" : "PT Indonesia Power",
+        "year" : "2016",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "Regulator Sector, Main Regulator Sector, Measuring Regulation Station for Lhokseumawe, North Aceh and Dairi Mager, North Aceh",
+        "client" : "PT Puncak Mas Utama – Ditjen Migas",
+        "owner" : "ESDM Migas",
+        "year" : "2015",
+        "scope" : "EPC",
+        "category" : "EPC"
+      },
+      {
+        "project" : "1-Year Blanket Service for General Consumable",
+        "client" : "Star Energy (Kaliuk) Ltd",
+        "owner" : "Star Energy (Kaliuk) Ltd",
+        "year" : "2015",
+        "scope" : "Maintenance & Services",
+        "category" : "Maintenance & Services"
+      },
+      {
+        "project" : "1-Year Blanket Service for General Mechanical Consumable for PGE Geothermal Power Plant Unit 1",
+        "client" : "PT Geo Dipa Energi",
+        "owner" : "PT Geo Dipa Energi",
+        "year" : "2015",
+        "scope" : "Maintenance & Services",
+        "category" : "Maintenance & Services"
+      },
+      {
+        "project" : "Engineering, Procurement, and Construction for 20 MVAR Capacitor Bank at Miniature Substation PT PLN (Persero) as Distribution Controller",
+        "client" : "PT PLN (Persero)",
+        "owner" : "PT PLN (Persero)",
+        "year" : "2013",
+        "scope" : "EPC",
+        "category" : "EPC"
+      }
+    ]
+  },
+  "documentation" : {
+    "title": "Every milestone captured, every standard, documented",
+    "crumb" : "Documentations",
+    "cta" : "View all photo",
+    "certifications" : "View all photo",
+    "photoData" : [
+      {
+
+      }
+    ]
+  },
+  "footer" : {
+    "title": "Subscribe for our newsletter",
+    "desc" : "Your information is never disclosed to third parties",
+    "label" : "Maharani Prima",
+    "crumb" : "Documentations",
+    "cta" : "Notify me",
+    "certifications" : "View all photo"
+  },
+  "products" : {
+    "title": "Help build a cleaner, brighter energy future.",
+    "crumb" : "Our Products",
+    "cta" : "View all photo",
+    "certifications" : "Contact us",
+    "productsData" : [
+      {
+        "title" : "FusionSolar Smart Microgrid",
+        "brand" : "Huawei",
+        "desc" : "One-fits-all and standardized off-grid and grid-connected power solution, accelerating low-carbon transformation for mining and industrial operations.",
+        "point" : [
+          {
+            "title" : "Microgrid definition",
+            "desc" : [
+              "A group of interconnected loads and distributed energy resources within clearly defined electrical boundaries",
+              "Acts as a single controllable entity with respect to the grid",
+              "Operates in either grid-connected or in island mode"
+            ]
+          },
+          {
+            "title" : "Distributed Power System",
+            "desc" : [
+              "Connects to a 35 kV or lower power grid, located near users, and mainly used for local consumption",
+              "Involves a wide variety of energy sources."
+            ]
+          },
+          {
+            "title" : "Energy Storage System (ESS)",
+            "desc" : [
+              "Functions as a load that stores the electric energy generated by a distributed power system",
+              "Functions as a distributed power system that discharges electric energy to loads"
+            ]
+          }
+        ],
+        "hardware" : [
+          {
+            "title" : "power grid",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Booster Station",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Load",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Transformer station",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Transformer station (SACU)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Transformer station (SACU)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Inverter",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "PCS",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "PV Modules",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Smart String Grid-Forming ESS",
+            "desc" : "",
+            "img" : ""
+          }
+        ]
+      },
+      {
+        "title" : "Huawei - Power POD Truck",
+        "brand" : "Huawei",
+        "desc" : "One-fits-all and standardized off-grid and grid-connected power solution, accelerating low-carbon transformation for mining and industrial operations.",
+        "point" : [
+          {
+            "title" : "Huawei PowerPOD",
+            "desc" : [
+              "Reliable, Agile, and Sustainable, the Optimal Choice for Power Supply in the Intelligent Computing Era"
+            ]
+          },
+          {
+            "title" : "Equipment Reliability",
+            "desc" : [
+              "Modular Redundancy Design, Hot-swappable Components, Reducing Single Point of Failure"
+            ]
+          },
+          {
+            "title" : "Structure Reliability",
+            "desc" : [
+              "Ultra-high-grade Container Structure Design and Material Selection, 25 Years Worry-free for Outdoor Deployment"
+            ]
+          }
+        ],
+        "hardware" : [
+          {
+            "title" : "Auxiliary Power",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "ECM 2 CAN 2",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "ECM 1 CAN 1",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Power Module",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Power Module",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Communication bus 1",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Power Module",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Communication bus 2",
+            "desc" : "",
+            "img" : ""
+          }
+        ]
+      },
+      {
+        "title" : "Huawei Data Center Facility",
+        "brand" : "Huawei",
+        "desc" : "One-fits-all and standardized off-grid and grid-connected power solution, accelerating low-carbon transformation for mining and industrial operations.",
+        "point" : [
+          {
+            "title" : "Microgrid definition",
+            "desc" : [
+              "A group of interconnected loads and distributed energy resources within clearly defined electrical boundaries",
+              "Acts as a single controllable entity with respect to the grid",
+              "Operates in either grid-connected or in island mode"
+            ]
+          },
+          {
+            "title" : "Distributed Power System",
+            "desc" : [
+              "Connects to a 35 kV or lower power grid, located near users, and mainly used for local consumption",
+              "Involves a wide variety of energy sources."
+            ]
+          },
+          {
+            "title" : "Energy Storage System (ESS)",
+            "desc" : [
+              "Functions as a load that stores the electric energy generated by a distributed power system",
+              "Functions as a distributed power system that discharges electric energy to loads"
+            ]
+          }
+        ],
+        "hardware" : [
+          {
+            "title" : "UPS2000-G (15-20kVA)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS2000-H (6-10kVA)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "SmartLi 3.0",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS5000-A (30-60KVA)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS5000-A (400-600kVA)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS5000-E (30-120KVA)-FM",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS5000-E (20-160kVA, 208V)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS5000-E (400-600kVA, SMS/FMS)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS5000-H (50-200 KVA)-NTJ (200V)",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS5000-H (300-1600 kVA) 3P4W",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "UPS5000-H (800-1600 kVA) 3P3W",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "FusionPower6000 3.0 Solution",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "PDU8000 Power Distribution Unit",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "PDU8000 Modular Power Distribution Cabinet",
+            "desc" : "",
+            "img" : ""
+          }
+        ]
+      },
+      {
+        "title" : "Huawei Fushion Solar Datasheet",
+        "brand" : "Huawei",
+        "desc" : "One-fits-all and standardized off-grid and grid-connected power solution, accelerating low-carbon transformation for mining and industrial operations.",
+        "point" : [
+          {
+            "title" : "Active Safety",
+            "desc" : [
+              "Level 4 AFCI, ahead in the industry OV voltage shutdown 4 layer protections"
+            ]
+          },
+          {
+            "title" : "Higher Yields",
+            "desc" : [
+              "Maintenance Free 2 Strings per MPPT, More Energy No Fuse & Other Quick-wear Parts, Yields Built-in PID Recovery, Secure Better Module Performance"
+            ]
+          },
+          {
+            "title" : "Maintenance Free",
+            "desc" : [
+              "No Fuse & Other Quick-wear Parts, Inverter Touch Free Online Smart I-V Curve Diagnosis, Module Touch Free"
+            ]
+          }
+        ],
+        "hardware" : [
+          {
+            "title" : "FusionSolar PVMS",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Transformer",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "PDC",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "SmartACU2000D",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Load",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Smart String ESS Smart PCS",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Smart PV Inverter",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "PV Module",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Grid",
+            "desc" : "",
+            "img" : ""
+          }
+        ]
+      },
+      {
+        "title" : "Selerys - LAICO™ SOBLI",
+        "brand" : "Selerys",
+        "desc" : "One-fits-all and standardized off-grid and grid-connected power solution, accelerating low-carbon transformation for mining and industrial operations.",
+        "point" : [
+          {
+            "title" : "Cloud Detection & Early Warning",
+            "desc" : [
+              "Radar detects cumulus clouds with storm potential moving toward the mine site. Two-stage alerts are issued at 30 km and 15 km — delivered via software dashboard and WhatsApp."
+            ]
+          },
+          {
+            "title" : "Smart Balloon Deployment & Cloud Seeding",
+            "desc" : [
+              "When the cloud's motion cone approaches, the balloon is deployed via a single software  command. The GPS-guided balloon with hygroscopic flare is drawn into the cloud's updraft core, releasing the flare precisely to disperse cloud particles before rainfall."
+            ]
+          },
+          {
+            "title" : "Rainfall Measurement & Performance Monitoring",
+            "desc" : [
+              "Automatic rainfall stations compare rain-hours and rainfall volume inside vs. outside the mine  site. Data is captured in real time through the integrated software platform to validate diversion effectiveness."
+            ]
+          }
+        ],
+        "hardware" : [
+          {
+            "title" : "Detection",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "2x Warning for Potential Cloud",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Release Balloon",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Balloon is aspired into the cloud & spray the agent",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Cloud particle is dispersed",
+            "desc" : "",
+            "img" : ""
+          },
+          {
+            "title" : "Measure rainfall after weather modification",
+            "desc" : "",
+            "img" : ""
+          }
+        ]
+      }
+    ]
+  },
+  "legality" : {
+    "title": "Clean energy systems designed to scale",
+    "crumb" : "Legality",
+    "cta" : "View all photo",
+    "certifications" : "Contact us",
+    "desc" : "We came to them with a complex logistics challenge. Not only did they understand it faster than anyone else, they built a solution that’s saving us time, money, and emissions—every single day.",
+    "name" : "Dradjat Darmadi, S.H.",
+    "notarialnumber" : "63.-",
+    "date" : "6 February 2012",
+    "legalityData" : [
+      {
+        "title" : "SPPKP",
+        "desc" : "S-707PKP/WPJ.30/KP.0703/2018"
+      },
+      {
+        "title" : "EBTKE",
+        "desc" : "UPJ1-2/VI/2023"
+      },
+      {
+        "title" : "SKUP MIGAS",
+        "desc" : "1144/SKUP-J/DMB/2024"
+      },
+      {
+        "title" : "BPJS",
+        "desc" : "1300000002511"
+      }
+    ]
+  },
+  "registered" : {
+    "title": "Clean energy systems designed to scale",
+    "crumb" : "Registered Vendor",
+    "cta" : "View all photo",
+    "vendors" : [
+      {
+        "title" : "PT. Perusahaan Listrik Negara (Persero)"
+      },
+      {
+        "title" : "PT. Indonesia Power"
+      },
+      {
+        "title" : "PT. Pembangkit Jawa Bali"
+      },
+      {
+        "title" : "PT. Pertamina (Persero)"
+      },
+      {
+        "title" : "PT. PGN Solution"
+      },
+      {
+        "title" : "SKK Migas"
+      },
+      {
+        "title" : "PT. Wijaya Karya (Persero)"
+      },
+      {
+        "title" : "PT. Brantas Abipraya (Persero)"
+      }
+    ]
+  }
+}
