@@ -16,7 +16,9 @@ const Registered = ({
     <div className={`${globalStyles.mainContainer}`}>
       <div className={`${globalStyles.innerContainer} gap-x-16 space-y-16 grid grid-cols-2`}>
         <div className=''>
-          <Title value={registeredData.title} crumb={registeredData.crumb} />
+          <div className='sticky top-32'>
+            <Title value={registeredData.title} crumb={registeredData.crumb} />
+          </div>
         </div>
         <div className='grid grid-cols-1 gap-4'>
           {registeredData.vendors.map((item, i) => {

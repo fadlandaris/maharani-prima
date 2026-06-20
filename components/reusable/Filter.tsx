@@ -1,6 +1,6 @@
 "use client"
 
-const ProjectsFilter = ({
+const Filter = ({
   data,
   active,
   onChange,
@@ -34,4 +34,4 @@ const ProjectsFilter = ({
   )
 }
 
-export default ProjectsFilter
+export default Filter

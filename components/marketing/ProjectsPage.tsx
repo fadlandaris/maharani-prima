@@ -1,7 +1,7 @@
 import { Dictionary } from '@/lib/getDictionary'
 import { globalStyles } from '@/styles/styles'
 import Title from '../reusable/Title'
-import ProjectsPageClient from '../reusable/ProjectsPageClient'
+import DataClient from '../reusable/DataClient'
 
 const INITIAL_LIMIT = 10
 
@@ -15,7 +15,8 @@ const ProjectsPage = ({ dict }: { dict: Dictionary }) => {
     <div className={`${globalStyles.mainContainer}`}>
       <div className={`${globalStyles.innerContainer} space-y-16`}>
         <Title value={projectsData.title} crumb={projectsData.crumb} />
-        <ProjectsPageClient
+        <DataClient
+          endpoint="projects"
           categories={projectsData.category}
           initialItems={initialItems}
           initialNextCursor={initialNext}
@@ -24,5 +25,6 @@ const ProjectsPage = ({ dict }: { dict: Dictionary }) => {
     </div>
   )
 }
+
 
 export default ProjectsPage

@@ -14,7 +14,7 @@ const LegalityHero = ({
 
   const legalityData = dict.legality
   return (
-    <div className={`${globalStyles.fullContainer} pt-42`}>
+    <div className={`${globalStyles.fullContainer} pt-32`}>
       <div className={`${globalStyles.innerContainer} space-y-16`}>
         <div className='space-y-8'>
           <Crumb value={legalityData.crumb}/>

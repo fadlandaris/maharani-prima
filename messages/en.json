@@ -954,5 +954,213 @@
         "title" : "PT. Brantas Abipraya (Persero)"
       }
     ]
+  },
+  "companycertifications" : {
+    "title" :  "Company",
+    "title2" :  "Certifications",
+    "titles" : "Clean energy systems designed to scale",
+    "crumb" : "Certifications",
+    "category" : [
+      "All",
+      "SBUJK",
+      "KBLI",
+      "SBUJPTL",
+      "EBTKE",
+      "CHSE / CSMS",
+      "ISO",
+      "K3"
+    ],
+    "certificationsData" : [
+      {
+        "title" : "SBUJK 41019",
+        "desc" : "Other Building Construction (Large) (BG009)",
+        "category" : "SBUJK"
+      },
+      {
+        "title" : "SBUJK 42101",
+        "desc" : "Road Civil Construction (Medium) (BS001)",
+        "category" : "SBUJK"
+      },
+      {
+        "title" : "SBUJK 42915",
+        "desc" : "Oil and Gas Civil Construction (Large) (BS013)",
+        "category" : "SBUJK"
+      },
+      {
+        "title" : "SBUJK 43223",
+        "desc" : "Oil and Gas Installation (Large) (IN004)",
+        "category" : "SBUJK"
+      },
+      {
+        "title" : "KBLI 43190",
+        "desc" : "Other Supporting Activities for Electric Power",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 41019",
+        "desc" : "Other Building Construction",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 43290",
+        "desc" : "Installation of Large Machinery, Equipment and Computer Accessories",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 46511",
+        "desc" : "Wholesale of Computers and Computer Equipment",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 46530",
+        "desc" : "Wholesale of Software",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 43223",
+        "desc" : "Oil and Gas Installation",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 43271",
+        "desc" : "Electrical Installation",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 42101",
+        "desc" : "Road Civil Construction",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 42914",
+        "desc" : "Mining, Sand and Stone Civil Construction",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 42915",
+        "desc" : "Oil and Gas Civil Construction",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 42930",
+        "desc" : "Irrigation and Drainage Network Construction",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 42911",
+        "desc" : "Water Resource Infrastructure Construction",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "KBLI 10290",
+        "desc" : "Land Processing Industry (Agriculture, Paddy Fields, and Dry Land)",
+        "category" : "KBLI"
+      },
+      {
+        "title" : "061.6.21.1.B.3174.421",
+        "desc" : "Main Substation",
+        "category" : "SBUJPTL"
+      },
+      {
+        "title" : "801.6.21.2.B.3174.424",
+        "desc" : "Medium Voltage Power Distribution Network",
+        "category" : "SBUJPTL"
+      },
+      {
+        "title" : "807.1.8.213.B.IC.3174.024",
+        "desc" : "Low Voltage Power Distribution Network",
+        "category" : "SBUJPTL"
+      },
+      {
+        "title" : "807.2.8.213.B.IC.3174.024",
+        "desc" : "Small and Medium-Scale Hydropower Plant",
+        "category" : "SBUJPTL"
+      },
+      {
+        "title" : "B.2",
+        "desc" : "Pipeline and Piping Construction",
+        "category" : "EBTKE"
+      },
+      {
+        "title" : "B.5",
+        "desc" : "Instrumentation Construction",
+        "category" : "EBTKE"
+      },
+      {
+        "title" : "B.6",
+        "desc" : "Engineering, Procurement and Construction / Installation",
+        "category" : "EBTKE"
+      },
+      {
+        "title" : "B.7",
+        "desc" : "Mechanical, Electrical, Instrumentation and Telecommunication Construction",
+        "category" : "EBTKE"
+      },
+      {
+        "title" : "e-CHSEMS PLN",
+        "desc" : "001534/DIST/CSMS/x/2022",
+        "category" : "CHSE / CSMS"
+      },
+      {
+        "title" : "eCHSEMS Certificate",
+        "desc" : "6614/PHRWKROKAN/2025",
+        "category" : "CHSE / CSMS"
+      },
+      {
+        "title" : "Geo Dipa Energi Vendor (CSMS)",
+        "desc" : "054.CSMS/PST.213-GDE/VI/2023",
+        "category" : "CHSE / CSMS"
+      },
+      {
+        "title" : "SPDA – CIVD",
+        "desc" : "80664/HUSKY/2025",
+        "category" : "CHSE / CSMS"
+      },
+      {
+        "title" : "ISO 9001:2015",
+        "desc" : "Quality Management System",
+        "category" : "ISO"
+      },
+      {
+        "title" : "ISO 14001:2015",
+        "desc" : "Environmental Management System",
+        "category" : "ISO"
+      },
+      {
+        "title" : "ISO 45001:2018",
+        "desc" : "Occupational Health and Safety Management System",
+        "category" : "ISO"
+      },
+      {
+        "title" : "ISO 37001:2016",
+        "desc" : "AMER24882 — Anti-Bribery Management System",
+        "category" : "ISO"
+      },
+      {
+        "title" : "P2K3 Certificate",
+        "desc" : "3421/P2K3/VI/2023",
+        "category" : "K3"
+      }
+    ]
+  },
+  "safetyCommitment" : {
+    "title" :  "Safety",
+    "title2" :  "Commitment",
+    "titles" : "Clean energy systems designed to scale",
+    "crumb" : "Safety commitment",
+    "safetyData" : [
+      {
+        "title" : "The management of Maharani Prima are fully committed to",
+        "desc" : "Manage HSE as a critical priority, promote a safe and efficient work environment, protect the environment through responsible resource use, and continuously improve HSE systems to meet recognized standards."
+      },
+      {
+        "title" : "Maharani Prima HSE policy",
+        "desc" : "Minimizing risks to people, projects, and the environment to absolute minimum, earning the confidence of staff, clients, and shareholders."
+      },
+      {
+        "title" : "In order to follow our HSE commitment",
+        "desc" : "ISO 9001:2015, ISO 14001:2015, OHSAS 18001:2007, and High Risk CSMS from SKK Migas, Pertamina Hulu Rokan, and PGN Solution."
+      }
+    ]
   }
 }
